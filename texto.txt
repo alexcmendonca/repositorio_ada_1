@@ -1,0 +1,4 @@
+1. Baixamos o git
+2. Configuramos o git local
+    git config...
+3. Criou um repositório lá no GitHub (repositorio_ada_1)
